@@ -1,0 +1,53 @@
+[
+  {
+    "profile": [
+      {
+        "name": "Narendra Patel",
+        "bio": "Hey I am Narendra Patel",
+        "email": "somethingsomething@gmail.com",
+        "photo": ""
+      }
+    ],
+    "educations": [
+      {
+        "heading": "Gujarat University",
+        "start_date": "July 2010",
+        "end_date": "April 2014",
+        "subheading": "Bcom",
+        "desc": "Nothing to say"
+      },
+      {
+        "heading": "Purohit Science School",
+        "start_date": "June 2004",
+        "end_date": "MAY 2010",
+        "subheading": "Science",
+        "desc": "Nothing to say"
+      }
+    ],
+    "works": [
+      {
+        "heading": "Sensegood",
+        "start_date": "June 2019",
+        "end_date": "May 2023",
+        "subheading": "Web Developer",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+  
+    ],
+    "achievements": [
+      {
+        "heading": "State level Champion BasketBall",
+        "start_date": "March 2020",
+        "end_date": "",
+        "desc": "Nothing to Say"
+      },
+      {
+        "heading": "National Level RunnerUp Football",
+        "start_date": "March 2021",
+        "end_date": "",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      
+      }
+    ]
+  }
+]
